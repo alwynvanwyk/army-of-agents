@@ -11,3 +11,9 @@ Found a better way of doing this.
 - Review the training material in learnt-a-thing
 - Own understanding based on cmtat repo and Medium article
     - Start with PRD
+
+Improvements:
+1. Start with a PRD.
+2. Analyse the requirements to generate a high-level process flow Mermaid diagram.
+3. Design the architecture.
+4. Generate a technical specification.
