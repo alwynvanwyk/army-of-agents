@@ -17,3 +17,4 @@ Improvements:
 2. Analyse the requirements to generate a high-level process flow Mermaid diagram.
 3. Design the architecture.
 4. Generate a technical specification.
+5. Follow a stage gate process.
