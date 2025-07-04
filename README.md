@@ -18,3 +18,4 @@ Improvements:
 3. Design the architecture.
 4. Generate a technical specification.
 5. Follow a stage gate process. This means to break things up in smaller tasks.
+6. These smaller tasks must then be planned in granular detail.
