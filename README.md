@@ -1,9 +1,12 @@
-# stage-gate-way-of-working
-Breaking news:
+# Ways of Working using AI
+### Breaking News!
 I came across [Ryan Carson's way of working yesterday!](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3)  
 This is courtesy of Brian Casel and his [Vibe coding for professionals YouTube.](https://youtu.be/cniTWVMGD08?si=C6-uyqSumoPILHy1)  
 It is a lot simpler and seems a lot more effective, so I'll be using it for the next few days to further build out the USSD server.  
 
+## Vibe Coding
+
+## Stage Gate way of working
 Inspired by Michael Pretorius - thx, bro!  
 I constantly use Cursor.ai as my IDE for software development.  
 I use a structured prompts way of working that includes 4 stages, namely 0-backlog, 1-planning, 2-wip, and 3-done.  
