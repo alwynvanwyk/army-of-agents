@@ -21,3 +21,8 @@ Improvements:
 6. These smaller tasks must then be planned in granular detail and grouped into stages.
 7. Each stage is gated by specific criteria.
 8. These criteria are encoded in files that are injected as context for the LLM.
+
+Breaking news:
+I came across [Ryan Carson's way of working yesterday!](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3)
+This is courtesy of Brian Casel and his [Vibe coding for professionals YouTube.](https://youtu.be/cniTWVMGD08?si=C6-uyqSumoPILHy1)
+It is a lot simpler and seems a lot more effective, so I'll be using it for the next few days to further build out the USSD server.
