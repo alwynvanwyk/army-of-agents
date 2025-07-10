@@ -1,10 +1,11 @@
 # Ways of Working using AI
-### Breaking News!
+### THe way forward!
 I came across [Ryan Carson's way of working yesterday!](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3)  
 This is courtesy of Brian Casel and his [Vibe coding for professionals YouTube.](https://youtu.be/cniTWVMGD08?si=C6-uyqSumoPILHy1)  
 It is a lot simpler and seems a lot more effective, so I'll be using it for the next few days to further build out the USSD server.  
 I've been working in this manner since yesterday and am seeing marked improvements in my productivity; clarity of thought, speed of execution, and confidence!  
 For example, I now have 6 PRD lined up to tackle different parts of the USSD system and I'm hoping to get the first one going with a Cursor background agent.
+I successfully ran a remote agent in Cursor last night with a fairly chunky task to refactor a 500+ line TS file.
 
 ## Vibe Coding
 
