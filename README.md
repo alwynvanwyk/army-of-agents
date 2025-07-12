@@ -15,12 +15,12 @@ I will double down on background agents.
 
 Today, I started working with Augment from inside Visual Studio Code.
 My aim is to find elegant solutions to gnarly problems using the most up to date and comprehensive knowledge available to a remote agent
-- Chat > Good for conversations and bouncing ideas around to get to the point where I have enough information to hit the PRD-creation prompt.
-- Agent > Great for executing the PRD tasks and to continue until done while I baby-sit the agent in VSCode.
+- Chat > Good for conversations and .
+- Agent > Can access the Internet. Great for bouncing ideas around to get to the point where I have enough information to hit the PRD-creation prompt
 - Remote Agent > Best option for executing the PRD tasks and to continue until done without me being a baby-sitter.
 *How do I find and implement elegant solutions to gnarly problems?*
 1. Write down a clear problem statement.
-1. Brainstorm ideas with one of the big LLM chat interfaces, like Grok, Claude, ChatGPT, or Gemini. The reason for not doing it inside my IDE is that Augment does not have access to the Internet.
+1. Brainstorm ideas inside my IDE with the Augment Agent, which has access to the Internet, and create a list of possible solutions.
 1. Select the most likely solution from the list.
 1. Fire the kiln on creating the PRD (Ryan Carson) in the Augment Chat interface in my IDE of choice; either VS Code or NeoVim.
 1. Create the detailed task list (Ryan Carson) in the Augment Chat interface in my IDE.
