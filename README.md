@@ -2,13 +2,29 @@
 ### The way forward!
 I came across [Ryan Carson's way of working yesterday!](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3)  
 This is courtesy of Brian Casel and his [Vibe coding for professionals YouTube.](https://youtu.be/cniTWVMGD08?si=C6-uyqSumoPILHy1)  
-It is a lot simpler and seems a lot more effective, so I'll be using it for the next few days to further build out the USSD server.  
+It is a lot simpler and seems a lot more effective than the stage-gate process, so I'll be using it for the next few days to further build out the USSD server.  
+
 I've been working in this manner since yesterday and am seeing marked improvements in my productivity; clarity of thought, speed of execution, and confidence!  
-For example, I now have 6 PRD lined up to tackle different parts of the USSD system and I'm hoping to get the first one going with a Cursor background agent.
+For example, I now have 6 PRDs lined up to tackle different parts of the USSD system and I'm hoping to get the first one going with a Cursor background agent.
+
 I successfully ran a remote agent in Cursor last night with a fairly chunky task to refactor a 500+ line TS file.
 There were still a number of fixes that I had to make afterward but, generally, it did the bulk of the work very well.
 I will double down on background agents.
-Ultimately, my idea is to use NeoVim with Augment.
+
+*Ultimately, my idea is to use NeoVim with Augment.*
+
+Today, I started working with Augment from inside Visual Studio Code.
+My aim is to find elegant solutions to gnarly problems using the most up to date and comprehensive knowledge available to a remote agent
+- Chat > Good for conversations and bouncing ideas around to get to the point where I have enough information to hit the PRD-creation prompt.
+- Agent > Great for executing the PRD tasks and to continue until done while I baby-sit the agent in VSCode.
+- Remote Agent > Best option for executing the PRD tasks and to continue until done without me being a baby-sitter.
+*How do I find and implement elegant solutions to gnarly problems?*
+1. Write down a clear problem statement.
+1. Brainstorm ideas with one of the big LLM chat interfaces, like Grok, Claude, ChatGPT, or Gemini. The reason for not doing it inside my IDE is that Augment does not have access to the Internet.
+1. Select the most likely solution from the list.
+1. Fire the kiln on creating the PRD (Ryan Carson) in the Augment Chat interface in my IDE of choice; either VS Code or NeoVim.
+1. Create the detailed task list (Ryan Carson) in the Augment Chat interface in my IDE.
+1. Run all burners to process (Ryan Carson) the detailed task list for the PRD in the Augment Agent interface (local or remote).
 
 ## Vibe Coding
 
