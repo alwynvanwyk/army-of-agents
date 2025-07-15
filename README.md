@@ -29,6 +29,11 @@ My aim is to find elegant solutions to gnarly problems using the most up to date
 *Wow! Augment is mind-blowing!*
 It's really like having a code pair companion with you who is 100x more knowledgeable and intelligent than you!
 
+*Yesterday was super frustrating! Today is satisfying!*
+The difference between the two days... my own understanding! Of the code and the Augment agent's limitations.
+Today, I dug deep into understanding the finer details of the XState v5 architecture, alongside the implementations that the agent has made.
+I could find a few bugs that the agent had introduced but were able to reverse when I pointed them out - nice!  
+
 ## Vibe Coding
 
 ## Stage Gate way of working
