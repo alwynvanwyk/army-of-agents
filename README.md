@@ -34,6 +34,15 @@ The difference between the two days... my own understanding! Of the code and the
 Today, I dug deep into understanding the finer details of the XState v5 architecture, alongside the implementations that the agent has made.
 I could find a few bugs that the agent had introduced but were able to reverse when I pointed them out - nice!  
 
+Yesterday, I was able to keep working by myself on the USSD codebase refactor while a remote agent was working on its own branch without much interaction.  
+Why did this work where in the past it did not?  
+- Isolated use case (spec-driven state machine dev from a Mermaid diagram) and architecture, even if a part of the same codebase.
+- Granted, I still have to review, test, and merge this code but it did seem of high quality during the process.
+Encouraging!  
+
+
+
+# OUTDATED
 ## Vibe Coding
 
 ## Stage Gate way of working
