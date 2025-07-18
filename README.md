@@ -38,7 +38,10 @@ Yesterday, I was able to keep working by myself on the USSD codebase refactor wh
 Why did this work where in the past it did not?  
 - Isolated use case (spec-driven state machine dev from a Mermaid diagram) and architecture, even if a part of the same codebase.
 - Granted, I still have to review, test, and merge this code but it did seem of high quality during the process.
-Encouraging!  
+Encouraging!
+
+I ran out of 'questions' on Augment today - burned through 300 in about 10 days.  
+Upgrading from $50 for 300 to $100 for 1,500 should be ample per month, especially if I am more considered with my questions.  
 
 
 
