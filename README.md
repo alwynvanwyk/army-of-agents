@@ -43,6 +43,7 @@ Encouraging!
 I ran out of 'questions' on Augment today - burned through 300 in about 10 days.  
 Upgrading from $50 for 300 to $100 for 1,500 should be ample per month, especially if I am more considered with my questions.  
 
+Going to rather code without AI for the next two days.
 
 
 # OUTDATED
