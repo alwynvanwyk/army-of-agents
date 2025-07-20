@@ -45,6 +45,9 @@ Upgrading from $50 for 300 to $100 for 1,500 should be ample per month, especial
 
 Going to rather code without AI for the next two days.
 
+Okay, didn't get very far yesterday but hoping to get at least 3 hours in today.
+First off, just want to understand why the current code base I'm working on is not behaving as expected after the latest major refactor.
+
 
 # OUTDATED
 ## Vibe Coding
