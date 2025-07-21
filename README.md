@@ -48,6 +48,7 @@ Going to rather code without AI for the next two days.
 Okay, didn't get very far yesterday but hoping to get at least 3 hours in today.
 First off, just want to understand why the current code base I'm working on is not behaving as expected after the latest major refactor.
 
+Looking forward to Saturday, 26 July > Offerzen x otinga.io with impact.com hackathon > Community AI Agent Hackathon! ⚡️
 
 # OUTDATED
 ## Vibe Coding
