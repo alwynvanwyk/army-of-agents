@@ -53,6 +53,11 @@ Looking forward to Saturday, 26 July > Offerzen x otinga.io with impact.com hack
 Having a great experience atm with Augment! Running through a list of tasks very effectively.
 Also, listened to the "How I AI" podcast episode describing how LaunchDarkly uses Devin, Cursor, Augment, Windsurf for coding + many more for design plus how they set up .agents/rules + docs/ for all tools.  
 
+Good comnbination currently of using AI to support my understanding and to hekp troubleshoot.
+
+
+
+
 # OUTDATED
 ## Vibe Coding
 
