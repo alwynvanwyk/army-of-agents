@@ -55,7 +55,7 @@ Also, listened to the "How I AI" podcast episode describing how LaunchDarkly use
 
 Good comnbination currently of using AI to support my understanding and to hekp troubleshoot.
 
-
+Really got into the nuts and bolts of Agent limitations yesterday. Even the brightest still needs manual testing and help to resolve gnarly bugs!
 
 
 # OUTDATED
