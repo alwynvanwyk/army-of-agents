@@ -55,8 +55,13 @@ Also, listened to the "How I AI" podcast episode describing how LaunchDarkly use
 
 Good comnbination currently of using AI to support my understanding and to hekp troubleshoot.
 
-Really got into the nuts and bolts of Agent limitations yesterday. Even the brightest still needs manual testing and help to resolve gnarly bugs!
+Really got into the nuts and bolts of Agent limitations yesterday. Even the brightest still needs manual testing and help to resolve gnarly bugs!They tend to overdo it and generate too much code.
 
+OfferZen Community Hackathon with Otinga.io and Impact.com was super-cool!
+My prezzo available here as a [public Notion page](https://www.notion.so/Ubuntu-Oracle-23cc21cbdc6380b5967eed94c5e91a61?source=copy_link).
+https://app.otinga.io/#/hackathon/SGFja2F0aG9uTm9kZTo2/detail 
+
+---
 
 # OUTDATED
 ## Vibe Coding
