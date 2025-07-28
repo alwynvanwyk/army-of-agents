@@ -61,6 +61,7 @@ OfferZen Community Hackathon with Otinga.io and Impact.com was super-cool!
 My prezzo available here as a [public Notion page](https://www.notion.so/Ubuntu-Oracle-23cc21cbdc6380b5967eed94c5e91a61?source=copy_link).
 https://app.otinga.io/#/hackathon/SGFja2F0aG9uTm9kZTo2/detail 
 
+Augment is running a YouTube week of learning with short vids on useful features.
 ---
 
 # OUTDATED
