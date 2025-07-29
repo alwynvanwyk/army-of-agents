@@ -62,6 +62,8 @@ My prezzo available here as a [public Notion page](https://www.notion.so/Ubuntu-
 https://app.otinga.io/#/hackathon/SGFja2F0aG9uTm9kZTo2/detail 
 
 Augment is running a YouTube week of learning with short vids on useful features.
+Main issue for me is still that new agents need at least one prompt to get proper context for my project, which blows one paid question per month per agent.
+
 ---
 
 # OUTDATED
