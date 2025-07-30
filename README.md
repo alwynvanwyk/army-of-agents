@@ -64,6 +64,8 @@ https://app.otinga.io/#/hackathon/SGFja2F0aG9uTm9kZTo2/detail
 Augment is running a YouTube week of learning with short vids on useful features.
 Main issue for me is still that new agents need at least one prompt to get proper context for my project, which blows one paid question per month per agent.
 
+Today is the 10 years of Ethereum celebration with global live stream! ⚡️
+
 ---
 
 # OUTDATED
