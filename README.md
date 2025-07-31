@@ -66,6 +66,8 @@ Main issue for me is still that new agents need at least one prompt to get prope
 
 Today is the 10 years of Ethereum celebration with global live stream! ⚡️
 
+Great news! The IXO USSD app will now be taken open source - whoopaa!
+
 ---
 
 # OUTDATED
