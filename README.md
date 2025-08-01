@@ -68,6 +68,8 @@ Today is the 10 years of Ethereum celebration with global live stream! ⚡️
 
 Great news! The IXO USSD app will now be taken open source - whoopaa!
 
+Think I've got the PRD tool waxed now with AugmentCode tasks and the IXO template.
+
 ---
 
 # OUTDATED
