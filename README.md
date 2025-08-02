@@ -70,6 +70,8 @@ Great news! The IXO USSD app will now be taken open source - whoopaa!
 
 Think I've got the PRD tool waxed now with AugmentCode tasks and the IXO template.
 
+Kicked off the stable coin hackathon today - nice!
+
 ---
 
 # OUTDATED
