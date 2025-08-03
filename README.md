@@ -72,6 +72,8 @@ Think I've got the PRD tool waxed now with AugmentCode tasks and the IXO templat
 
 Kicked off the stable coin hackathon today - nice!
 
+Sundays are always a bit more quiet.
+
 ---
 
 # OUTDATED
