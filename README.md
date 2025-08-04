@@ -74,6 +74,8 @@ Kicked off the stable coin hackathon today - nice!
 
 Sundays are always a bit more quiet.
 
+Listened to podcast on Epicentre with one of the NEAR founders - lightning-fast chain!
+
 ---
 
 # OUTDATED
