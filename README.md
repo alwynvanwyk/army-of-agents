@@ -76,6 +76,8 @@ Sundays are always a bit more quiet.
 
 Listened to podcast on Epicentre with one of the NEAR founders - lightning-fast chain!
 
+Fascinating things happening in the Greenpill world - many grants to apply to!
+
 ---
 
 # OUTDATED
