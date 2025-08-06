@@ -78,6 +78,7 @@ Listened to podcast on Epicentre with one of the NEAR founders - lightning-fast 
 
 Fascinating things happening in the Greenpill world - many grants to apply to!
 
+Super excited! Augment is making huge strides in solving the "Context Rot" problem by providing real-time indexing, causal analysis, and persistent memory.
 ---
 
 # OUTDATED
