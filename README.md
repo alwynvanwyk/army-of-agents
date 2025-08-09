@@ -84,6 +84,8 @@ Weird! Augment had an outage yesterday for many hours: HTTP 502 Bad Gateway. Whe
 
 Augment today announced that GPT-5 is selectable as a model picker. Claude Sonnet 4 is still the default.
 
+Presented the IXO stack today to a small and engaged group at Youngblood Africa Art Gallery in Cape Town. Youssef's video about how to create AI agent oracles was available and well-received.
+
 ---
 
 # OUTDATED
