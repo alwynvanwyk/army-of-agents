@@ -87,6 +87,8 @@ Augment today announced that GPT-5 is selectable as a model picker. Claude Sonne
 Presented the IXO stack today to a small and engaged group at Youngblood Africa Art Gallery in Cape Town. Youssef's video about how to create AI agent oracles was available and well-received.
 
 Using www.machinations.io to model the YNGAF memecoin's tokenomics.
+
+Used Augment Agent this morning to spin up 'pnpm dev' and test it using 'pnpm test:interactive'; all while running off only 2 questions and a bunch of tasks in the tasklist.
 ---
 
 # OUTDATED
