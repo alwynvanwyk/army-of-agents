@@ -89,6 +89,9 @@ Presented the IXO stack today to a small and engaged group at Youngblood Africa 
 Using www.machinations.io to model the YNGAF memecoin's tokenomics.
 
 Used Augment Agent this morning to spin up 'pnpm dev' and test it using 'pnpm test:interactive'; all while running off only 2 questions and a bunch of tasks in the tasklist.
+
+Refreshing a few basics about networking and the Internet today!
+
 ---
 
 # OUTDATED
