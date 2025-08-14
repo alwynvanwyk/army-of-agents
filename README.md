@@ -92,6 +92,8 @@ Used Augment Agent this morning to spin up 'pnpm dev' and test it using 'pnpm te
 
 Refreshing a few basics about networking and the Internet today!
 
+Got http://alwynvanwyk.co.za up-and-running by using Github Pages.
+
 ---
 
 # OUTDATED
