@@ -94,6 +94,8 @@ Refreshing a few basics about networking and the Internet today!
 
 Got http://alwynvanwyk.co.za up-and-running by using Github Pages.
 
+Agentic Oracle Boilerplate project is in much better shape now - gonna check it out again soon!
+
 ---
 
 # OUTDATED
