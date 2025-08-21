@@ -96,6 +96,8 @@ Got http://alwynvanwyk.co.za up-and-running by using Github Pages.
 
 Agentic Oracle Boilerplate project is in much better shape now - gonna check it out again soon!
 
+Deeply insightful and distrusting questions asked about web3 last night at the GP CPT event named "Deep South Circles: Ideas into Action"
+
 ---
 
 # OUTDATED
