@@ -98,6 +98,8 @@ Agentic Oracle Boilerplate project is in much better shape now - gonna check it 
 
 Deeply insightful and distrusting questions asked about web3 last night at the GP CPT event named "Deep South Circles: Ideas into Action"
 
+Powerful new feature introduced by Cursor/Linear! Cursor will run off on its own to fix a bug or tweak UI while tracking it in Linear.
+
 ---
 
 # OUTDATED
