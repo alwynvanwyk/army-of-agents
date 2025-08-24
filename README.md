@@ -100,6 +100,8 @@ Deeply insightful and distrusting questions asked about web3 last night at the G
 
 Powerful new feature introduced by Cursor/Linear! Cursor will run off on its own to fix a bug or tweak UI while tracking it in Linear.
 
+Augment CLI "Auggie" landed today! Whoop-Whoop!
+
 ---
 
 # OUTDATED
