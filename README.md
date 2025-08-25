@@ -102,6 +102,8 @@ Powerful new feature introduced by Cursor/Linear! Cursor will run off on its own
 
 Augment CLI "Auggie" landed today! Whoop-Whoop!
 
+Going to use Auggie today for specific use case; just need to figure out which one will work best and is standalone.
+
 ---
 
 # OUTDATED
