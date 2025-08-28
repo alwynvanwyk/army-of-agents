@@ -105,6 +105,7 @@ Augment CLI "Auggie" landed today! Whoop-Whoop!
 Going to use Auggie today for specific use case; just need to figure out which one will work best and is standalone.
 Perhaps the claim submission use case is best suited.
 Or rather the LZAR hackathon use case. I'm just not sure yet how to use it effectively and look forward to being able to deep dive!
+Actually, it will make the most sense with the Subscription Oracle use case.
 
 ---
 
