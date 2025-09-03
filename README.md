@@ -108,6 +108,14 @@ Or rather the LZAR hackathon use case. I'm just not sure yet how to use it effec
 Actually, it will make the most sense with the Subscription Oracle use case.
 Auggie today available for public access - coolios!
 
+Okay, so here's my current workflow with Auggie!
+- Workspace dir with all projects related to a project; for example ECS. Auggie indexes up to 500,000 files across all of these repos!
+- Spin up an agent for each workstream; for example, one agent for USSD enhancements, another for the subscriptions oracle, another for the Telerivet callback server, and one more for the SUPA and BEAN token implementation.
+- Each agent has its own 'state' dir in the workspace /docs dir where I ask it to "Before we continue, summarize our decisions, constraints, interfaces, and next steps in ≤200 lines. This becomes the only source of truth. Save this summary to ecs/docs/agent1/state-<timestamp>.md".
+- Then, when I start a new session, I ask the fresh agent to "Before we start, review the documents in ~/github/\_workspace/ecs/prd to understand the full scope of the ECS project. Then review the specific State file regarding the current state of the project at ~/github/\_workspace/ecs/docs/agent????."
+- Once the new agent session is well prepared, I set up a tasklist in Auggie and ask the agent to "Review the tasklist and break it down into step-by-step tasks. Add these tasks to the tasklist and execute the tasks one-by-one until finished. Pause to ask me clarifying questions at any time."
+Today, I hope to have 4 agents running - how to keep up with all of their questions and to review what they deliver?! :)
+
 ---
 
 # OUTDATED
