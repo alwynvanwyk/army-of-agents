@@ -116,8 +116,10 @@ Okay, so here's my current workflow with Auggie!
 - Once the new agent session is well prepared, I set up a tasklist in Auggie and ask the agent to "Review the tasklist and break it down into step-by-step tasks. Add these tasks to the tasklist and execute the tasks one-by-one until finished. Pause to ask me clarifying questions at any time."
 Today, I hope to have 4 agents running - how to keep up with all of their questions and to review what they deliver?! :)
 
-End of day git bliss! When my 4 agents have pushed to remote, written up the current state, and saved the tasklist.
+End of day git bliss! When my 4 agents have pushed to remote, written up the current state, and saved the tasklist.  
 <img width="3456" height="2234" alt="CleanShot 2025-09-03 at 17 38 34@2x" src="https://github.com/user-attachments/assets/1d19c530-4338-4852-b4e2-1dbd5520d535" />
+
+Also, a good way to describe what I do; involved with "social purpose organisations".
 
 ---
 
