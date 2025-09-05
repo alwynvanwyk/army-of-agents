@@ -121,6 +121,9 @@ End of day git bliss! When my 4 agents have pushed to remote, written up the cur
 
 Also, a good way to describe what I do; involved with "social purpose organisations".
 
+It becomes difficult to run more than 2 agents at a time on tasks that take a long time for me to review.
+Quality over quantity in some cases!
+
 ---
 
 # OUTDATED
