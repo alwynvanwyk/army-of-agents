@@ -124,6 +124,9 @@ Also, a good way to describe what I do; involved with "social purpose organisati
 It becomes difficult to run more than 2 agents at a time on tasks that take a long time for me to review.
 Quality over quantity in some cases!
 
+Looking forward to Cloudflare Workers running the bulding blocks for an end-to-end solution in Zambia.
+Bond buy, mobile money payment SMS, USSD queries (?), and more!
+
 ---
 
 # OUTDATED
