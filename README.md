@@ -126,6 +126,7 @@ Quality over quantity in some cases!
 
 Looking forward to Cloudflare Workers running the bulding blocks for an end-to-end solution in Zambia.
 Bond buy, mobile money payment SMS, USSD queries (?), and more!
+Cloudflare learning materials seem to be comprehensive.
 
 ---
 
