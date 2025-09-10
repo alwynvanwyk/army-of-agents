@@ -128,6 +128,9 @@ Looking forward to Cloudflare Workers running the bulding blocks for an end-to-e
 Bond buy, mobile money payment SMS, USSD queries (?), and more!
 Cloudflare learning materials seem to be comprehensive.
 
+Got my agents nicely at work on the SupaMoto project!
+Joining the MS user group session on Saturday about using VS Code effectively.
+
 ---
 
 # OUTDATED
