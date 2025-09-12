@@ -131,6 +131,8 @@ Cloudflare learning materials seem to be comprehensive.
 Got my agents nicely at work on the SupaMoto project!
 Joining the MS user group session on Saturday about using VS Code effectively.
 
+Properly understanding workers and queues now locally using Miniflare.
+
 ---
 
 # OUTDATED
