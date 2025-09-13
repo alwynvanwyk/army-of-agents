@@ -133,6 +133,8 @@ Joining the MS user group session on Saturday about using VS Code effectively.
 
 Properly understanding workers and queues now locally using Miniflare.
 
+Allan Pead at the Microsoft office at Mowbray Office in Pinelands.
+
 ---
 
 # OUTDATED
