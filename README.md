@@ -134,6 +134,11 @@ Joining the MS user group session on Saturday about using VS Code effectively.
 Properly understanding workers and queues now locally using Miniflare.
 
 Allan Pead at the Microsoft office at Mowbray Office in Pinelands.
+Got my "VS Code Insiders" sticker! :)
+
+Good reading about how to use agents well. 
+- https://github.com/agent-era/devteam
+- https://cline.bot/learn
 
 ---
 
