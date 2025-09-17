@@ -140,6 +140,8 @@ Good reading about how to use agents well.
 - https://github.com/agent-era/devteam
 - https://cline.bot/learn
 
+Nice to have the SMS worker and oracle worker nicely picking up and processing messages from the Telerivet gateway.
+
 ---
 
 # OUTDATED
