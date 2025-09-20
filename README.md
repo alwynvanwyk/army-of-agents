@@ -143,6 +143,8 @@ Good reading about how to use agents well.
 Nice to have the SMS worker and oracle worker nicely picking up and processing messages from the Telerivet gateway.
 Further to this, it is nice to have gotten the Cloudflare workers and queues set up.
 
+AWS Community Day in Cape Town was very cool! Amazing building!
+
 ---
 
 # OUTDATED
