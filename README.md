@@ -145,6 +145,8 @@ Further to this, it is nice to have gotten the Cloudflare workers and queues set
 
 AWS Community Day in Cape Town was very cool! Amazing building!
 
+I will revisit Ryan Carson's ways of working - seems to work well for him.
+
 ---
 
 # OUTDATED
