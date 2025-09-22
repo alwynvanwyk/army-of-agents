@@ -147,6 +147,8 @@ AWS Community Day in Cape Town was very cool! Amazing building!
 
 I will revisit Ryan Carson's ways of working - seems to work well for him.
 
+Also, important to have the workers and queues be usable across multiple cloud providers ala [Bring your own cloud or Infra as Data (JSON) not Terraform](https://softwareengineeringdaily.com/2025/08/21/complex-workload-deployment-with-will-stewart/)
+
 ---
 
 # OUTDATED
