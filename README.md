@@ -149,7 +149,7 @@ I will revisit Ryan Carson's ways of working - seems to work well for him.
 
 Also, important to have the workers and queues be usable across multiple cloud providers ala [Bring your own cloud or Infra as Data (JSON) not Terraform](https://softwareengineeringdaily.com/2025/08/21/complex-workload-deployment-with-will-stewart/)
 
-Geez, compliance docs are a lot of work! :|
+Geez, compliance docs are a lot of work! :| And it just keeps coming!
 
 ---
 
