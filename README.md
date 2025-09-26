@@ -1,6 +1,6 @@
 # Ways of Working using AI
 ### The way forward!
-I came across [Ryan Carson's way of working yesterday!](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3)  
+I came across [Ryan Carson's way of working](https://www.youtube.com/watch?v=fD4ktSkNCw4&list=TLPQMDcwNzIwMjV9wZQs1bjMNQ&index=3) yesterday!  
 This is courtesy of Brian Casel and his [Vibe coding for professionals YouTube.](https://youtu.be/cniTWVMGD08?si=C6-uyqSumoPILHy1)  
 It is a lot simpler and seems a lot more effective than the stage-gate process, so I'll be using it for the next few days to further build out the USSD server.  
 
