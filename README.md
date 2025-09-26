@@ -152,6 +152,8 @@ Also, important to have the workers and queues be usable across multiple cloud p
 Geez, compliance docs are a lot of work! :| And it just keeps coming!
 Useful, though, for additional security and structure; I guess! :)
 
+As I mentioned a few lines up, I will revisit Ryan Carson's way now that I'm diving into the coding of ECS again - nice!
+
 ---
 
 # OUTDATED
