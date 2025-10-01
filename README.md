@@ -155,6 +155,7 @@ Useful, though, for additional security and structure; I guess! :)
 As I mentioned a few lines up, I will revisit Ryan Carson's way now that I'm diving into the coding of ECS again - nice!
 Big week for optimising the Auggie + VSCode flow.
 Nice to get back into the swing of things with Auggie - combining CLI with VS Code + terminal to zoom in-and-out as needed.
+Continuing with the CLI + VSCode tack today - let's see where the wind takes me!
 
 ---
 
