@@ -156,6 +156,7 @@ As I mentioned a few lines up, I will revisit Ryan Carson's way now that I'm div
 Big week for optimising the Auggie + VSCode flow.
 Nice to get back into the swing of things with Auggie - combining CLI with VS Code + terminal to zoom in-and-out as needed.
 Continuing with the CLI + VSCode tack today - let's see where the wind takes me!
+I enjoy being able to focus on one tricky problem at a time, unraveling it, and seeing my solution work - gives me a sense of accomplishment.
 
 ---
 
