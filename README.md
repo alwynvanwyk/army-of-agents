@@ -158,6 +158,8 @@ Nice to get back into the swing of things with Auggie - combining CLI with VS Co
 Continuing with the CLI + VSCode tack today - let's see where the wind takes me!
 I enjoy being able to focus on one tricky problem at a time, unraveling it, and seeing my solution work - gives me a sense of accomplishment.
 
+Mind-blowing stuff by [IndyDevDan](https://www.youtube.com/@indydevdan)! 
+
 ---
 
 # OUTDATED
