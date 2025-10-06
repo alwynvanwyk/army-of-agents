@@ -159,6 +159,7 @@ Continuing with the CLI + VSCode tack today - let's see where the wind takes me!
 I enjoy being able to focus on one tricky problem at a time, unraveling it, and seeing my solution work - gives me a sense of accomplishment.
 
 Mind-blowing stuff by [IndyDevDan](https://www.youtube.com/@indydevdan)! 
+Working through his recommendations and ways of working after formatting my harddrive - nice and clean now with speed. :)
 
 ---
 
