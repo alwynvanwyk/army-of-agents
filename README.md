@@ -160,6 +160,7 @@ I enjoy being able to focus on one tricky problem at a time, unraveling it, and 
 
 Mind-blowing stuff by [IndyDevDan](https://www.youtube.com/@indydevdan)! 
 Working through his recommendations and ways of working after formatting my harddrive - nice and clean now with speed. :)
+Bought the PAIC and TAC courses - gold!
 
 ---
 
