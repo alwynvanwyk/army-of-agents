@@ -163,6 +163,10 @@ Working through his recommendations and ways of working after formatting my hard
 Bought the PAIC and TAC courses - gold!
 Have done the first 3 lessons for PAIC.
 
+My focus was great this week! :) Coded a ton of useful, working software along with auggie in the terminal of VS Code which allows me to see folders and files along with the agent.
+I'm still hitting a hard ceiling of two repos only; adding one more and it all spins out of control! I lose context and make mistakes.
+Looking forward to the next level of this game!
+
 ---
 
 # OUTDATED
