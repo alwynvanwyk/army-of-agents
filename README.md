@@ -167,6 +167,7 @@ My focus was great this week! :) Coded a ton of useful, working software along w
 I'm still hitting a hard ceiling of two repos only; adding one more and it all spins out of control! I lose context and make mistakes.
 Looking forward to the next level of this game!
 Tactical Agentic Coding training course is the bomb!
+Using Templates very effectively; next step is ADW (AI Developer Workflows).
 
 ---
 
