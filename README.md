@@ -168,6 +168,7 @@ I'm still hitting a hard ceiling of two repos only; adding one more and it all s
 Looking forward to the next level of this game!
 Tactical Agentic Coding training course is the bomb!
 Using Templates very effectively; next step is ADW (AI Developer Workflows).
+Taking a bit longer than expected to get the Templates to work properly.
 
 ---
 
