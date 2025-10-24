@@ -169,6 +169,7 @@ Looking forward to the next level of this game!
 Tactical Agentic Coding training course is the bomb!
 Using Templates very effectively; next step is ADW (AI Developer Workflows).
 Taking a bit longer than expected to get the Templates to work properly.
+Found something very interesting today w.r.t. models; claude-sonnet-4.5-haiku just could not get a prompt to work whereas same prompt worked one-shot with claude-sonnet-4.5 - big diff, so I'm sticking to the latter.
 
 ---
 
