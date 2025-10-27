@@ -172,6 +172,7 @@ Taking a bit longer than expected to get the Templates to work properly.
 Found something very interesting today w.r.t. models; claude-sonnet-4.5-haiku just could not get a prompt to work whereas same prompt worked one-shot with claude-sonnet-4.5 - big diff, so I'm sticking to the latter.
 Added a cool change to USSD now where I can record a menu flow into a session.log file which is then used to create a vitest for that flow.
 The vitest is used by the Claude template to have an exact description of the required flow.
+This allows me to create anew flow with the end goal in mind and starting with the test.
 
 ---
 
