@@ -175,6 +175,7 @@ The vitest is used by the Claude template to have an exact description of the re
 This allows me to create anew flow with the end goal in mind and starting with the test.
 
 I'm really sweating with race conditions atm! XState is a phenomenal state machine framework but there's one important reason for USSD not being able to use it as-is which is the fact that the server cannot initiate interaction with the client once a Promise completes and the state changes; client always has to initiate for the server to react. This means additional menu steps with instruction to "1. Continue".
+Resolved most of the race conditions after convincing my agents that this is not bad design, it's necessary!
 
 ---
 
