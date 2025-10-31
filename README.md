@@ -183,7 +183,8 @@ My Agentic Engineer journey is progressing. Here's my current process:
 3. `/implement` _"./path/to/specs/specification.md"_. (custom template in _.claude/commands_)
 4. Review changes and tweak, if needed. (still too much tweaking needed at this stage! :))
 5. Instruct Auggie to commit.
-6. Manually merge to dev, push, and delete local feature branch.
+6. Instruct Auggie to update the Linear project status which sends a Slack message.
+7. Manually merge to dev, push, and delete local feature branch.
 
 ---
 
