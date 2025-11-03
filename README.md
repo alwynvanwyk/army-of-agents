@@ -186,6 +186,10 @@ My Agentic Engineer journey is progressing. Here's my current process:
 6. Instruct Auggie to update the Linear project status which sends a Slack message.
 7. Manually merge to dev, push, and delete local feature branch.
 
+Auggie was able to interactively test/fix/test a bug that it eventually tracked down to how the use of an SDK is causing an issue.
+Now I can fix the SDK code and submit a PR for it.
+Don't think I would have been able to find this specific issue!
+
 ---
 
 # OUTDATED
