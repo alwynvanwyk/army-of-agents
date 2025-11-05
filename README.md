@@ -191,6 +191,7 @@ Now I can fix the SDK code and submit a PR for it.
 Don't think I would have been able to find this specific issue!
 
 My process is working better and better with being able to accelerate by having more than one agent running across different repos.
+Becoming easier and easier to build out features using the (still small :) army.
 
 ---
 
