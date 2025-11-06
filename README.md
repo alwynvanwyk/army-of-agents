@@ -192,6 +192,7 @@ Don't think I would have been able to find this specific issue!
 
 My process is working better and better with being able to accelerate by having more than one agent running across different repos.
 Becoming easier and easier to build out features using the (still small :) army.
+Models are really good when they have clear prompt and enough relevant context.
 
 ---
 
