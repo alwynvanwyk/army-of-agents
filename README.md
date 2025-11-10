@@ -194,6 +194,8 @@ My process is working better and better with being able to accelerate by having 
 Becoming easier and easier to build out features using the (still small :) army.
 Models are really good when they have clear prompts and enough relevant context.
 
+I've started using `git worktree` to try and run parallel changes on the same repository.
+
 ---
 
 # OUTDATED
