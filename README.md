@@ -198,6 +198,7 @@ I've started using `git worktree` to try and run parallel changes on the same re
 
 GPT 5.1 released yesterday and already available in Auggie - giving it a swing.
 It gets more confused than claude-sonnet-4.5 does; it may be my way of working but don't think so - will keep an eye on it.
+Switched back to sonnet-4.5 and getting consistently better results.
 
 ---
 
