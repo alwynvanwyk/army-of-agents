@@ -201,6 +201,9 @@ It gets more confused than claude-sonnet-4.5 does; it may be my way of working b
 Switched back to sonnet-4.5 and getting consistently better results.
 Confirmed that I'm still very happy with the sonnet. :)
 
+In Lusaka, Zambia, this week to work closely with the [SupaMoto organisation](https://supamoto.global/): "Change from charcoal, change your life".
+It's part of the work that we do as IXO World (ixo.world) on environmental regeneration.
+
 ---
 
 # OUTDATED
