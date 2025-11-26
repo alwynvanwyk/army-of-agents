@@ -203,6 +203,7 @@ Confirmed that I'm still very happy with the sonnet. :)
 
 In Lusaka, Zambia, this week to work closely with the [SupaMoto organisation](https://supamoto.global/): "Change from charcoal, change your life".
 It's part of the work that we do as IXO World (ixo.world) on environmental regeneration.
+Had to rush some minor changes today with Auggie but it's no use trying to "vibe" it.
 
 ---
 
