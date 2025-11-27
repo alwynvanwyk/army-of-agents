@@ -205,6 +205,8 @@ In Lusaka, Zambia, this week to work closely with the [SupaMoto organisation](ht
 It's part of the work that we do as IXO World (ixo.world) on environmental regeneration.
 Had to rush some minor changes today with Auggie but it's no use trying to "vibe" it.
 
+Reminder to myself to look at Lenny's again for insights, seeing as I am paying for the subscription.
+
 ---
 
 # OUTDATED
