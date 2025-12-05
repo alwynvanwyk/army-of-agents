@@ -206,5 +206,5 @@ It's part of the work that we do as IXO World (ixo.world) on environmental regen
 Had to rush some minor changes today with Auggie but it's no use trying to "vibe" it.
 
 Reminder to myself to look at Lenny's again for insights, seeing as I am paying for the subscription.
-
 Auggie is more expensive these days at $200 for a number of credits, which is the most cost-effective subscription; credits include tool calls.
+Linear has partnered with OpenAI's Codex to make it really simple to hand off tasks to an agent; even the triaging can be done by Codex, apparently.
