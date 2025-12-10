@@ -210,3 +210,4 @@ Auggie is more expensive these days at $200 for a number of credits, which is th
 Linear has partnered with OpenAI's Codex to make it really simple to hand off tasks to an agent; even the triaging can be done by Codex, apparently.
 The VC Corner shows how to save loads of money by making use of the [available credits](https://www.thevccorner.com/p/ai-startup-credits-guide) from many providers.  
 Found ona.com over the weekend as a great tool for remote agentic AI software engineers - truly an army of agents!
+claude.ai was a fantastic partner this week in generating a heartfelt article about my visit to SupaMoto Zambia.
